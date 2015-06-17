@@ -2,322 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbc6ff2-d63b-4378-ac2e-001366473603" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/1131.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/1561.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/230.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/2343A.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/2343B.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/2343C.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/253.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/408.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/528.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/860.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Ausbildungsvertrag Naef 24.07.1871.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Ausbildungsvertrag Oberholzer 28.02.1875.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Betriebsgeschichte Maschinenfabrik Rüti.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Brief Bundesrat an Caspar Honegger 25.11.1878.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Brief C. Honegger an M. B. Caprotti 29.12.1868.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Brief Weber-Honegger 8.1.1903.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Caspar Honegger Memoiren Heft 1 bis 4.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Dankschrift Gemeinde Wangen 14.4.1870.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Einsprache_CH_Bezirksgericht_March_10.05.1874.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Einsprache_CH_Brief_NOB_06.06.1874.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Einsprache_CH_Brief_NOB_09.05.1874.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Einsprache_NOB_Antwort_30.05.1874.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Hauswart-Vertrag_01.05.1897.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Hauswart-Vertrag_01.10.1899.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Hauswart-Vertrag_27.03.1883.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Inhaltsverzeichnis Verträge Honegger 1-65.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Inhaltsverzeichnis Verträge Honegger 1-88.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Inhaltsverzeichniss Verträge Honegger 1-37.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Instruction Nachtwächter 01.09.1894.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jcrop/Jcrop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/img/LOGO.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/img/LOGOS.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Lehrvertrag Kaegi 08.03.1882.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Mietvertrag Schmid 26.07.1880.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Rüti ArchivTree.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Testamentänderung Caspar Honegger 6.1.1878.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Unterstützungsfonds 1911 1912 b.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Unterstützungsfonds 1913.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/WMS_Tree.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/fonts/icon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/fonts/icon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/fonts/icon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/fonts/icon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/fonts/icon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/fonts/icon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/bootstrap/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/joomla32/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-icons_228ef1_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-icons_ef8c08_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/content/Überlieferung Archiv Webmaschinensammlung Rüti.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/activate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/archiv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/includes/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/cs.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loginregister/db.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/classes/db_conn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OLD/dbconn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/de.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/el.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/en.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/es.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/es2.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OLD/fluid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/layout/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/fr.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/layout/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OLD/hero.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/fonts/icon.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/fonts/icon.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/fonts/icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/fonts/icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/icons-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/icons-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdo/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/it.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curso_pdo/js/jQuery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/js/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/jquery-ui-1.9.2.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/js/jquery-ui-1.9.2.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/timepicker/jquery-ui-timepicker-addon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/timepicker/jquery-ui-timepicker-addon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-am.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-sr-RS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-sr-YU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/timepicker/jquery-ui-timepicker-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery-ui/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jcrop/jquery.Jcrop.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jcrop/jquery.Jcrop.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ar-DZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-cy-GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-en-AU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-en-GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-en-NZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-fr-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-fr-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-hy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-kk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-nl-BE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-nn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-rm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-sr-SR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-tj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-zh-HK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/datepicker/jquery.ui.datepicker-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/library.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/logout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OLD/mailtest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/memberpage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/config/my_settings.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/nl.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/classes/password.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/photoarchiv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/pl.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/pt-br.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/reset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/resetPassword.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/ru.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/se.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OLD/signin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/languages/sk.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/classes/user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/bootstrap/xcrud.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/xcrud.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/joomla32/xcrud.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/xcrud.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/bootstrap/xcrud.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/xcrud.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/joomla32/xcrud.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/xcrud.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/printout/xcrud.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/plugins/xcrud.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/xcrud.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/xcrud_ajax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/xcrud_config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/bootstrap/xcrud_container.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/xcrud_container.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/joomla32/xcrud_container.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/xcrud_container.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/xcrud_db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/bootstrap/xcrud_detail_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/xcrud_detail_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/joomla32/xcrud_detail_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/xcrud_detail_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/bootstrap/xcrud_list_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/default/xcrud_list_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/joomla32/xcrud_list_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/minimal/xcrud_list_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/themes/printout/xcrud_list_view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xcrud/core/xss.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/archiv.php" afterPath="$PROJECT_DIR$/db/archiv.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/includes/config.php" afterPath="$PROJECT_DIR$/db/includes/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/layout/header.php" afterPath="$PROJECT_DIR$/db/layout/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/index.php" afterPath="$PROJECT_DIR$/db/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/library.php" afterPath="$PROJECT_DIR$/db/library.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/memberpage.php" afterPath="$PROJECT_DIR$/db/memberpage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/photoarchiv.php" afterPath="$PROJECT_DIR$/db/photoarchiv.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="htdocs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -341,6 +34,38 @@
     <option name="GROUP_BY_TYPE" value="true" />
     <option name="SORT_CHILDREN" value="false" />
     <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="efbcfd8_db@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="efbcfd8_db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="efbcfd8_db@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="efbcfd8_db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="members" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -348,11 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/layout/header.php">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/includes/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.023383768" vertical-offset="0" max-vertical-offset="1054">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.25801012" vertical-offset="0" max-vertical-offset="593">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -376,14 +101,18 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/signin.html" />
         <option value="$PROJECT_DIR$/db/classes/db_conn.php" />
-        <option value="$PROJECT_DIR$/db/memberpage.php" />
         <option value="$PROJECT_DIR$/db/login.php" />
         <option value="$PROJECT_DIR$/db/logout.php" />
-        <option value="$PROJECT_DIR$/db/includes/config.php" />
-        <option value="$PROJECT_DIR$/db/layout/header.php" />
         <option value="$PROJECT_DIR$/db/classes/password.php" />
-        <option value="$PROJECT_DIR$/db/index.php" />
         <option value="$PROJECT_DIR$/db/layout/footer.php" />
+        <option value="$PROJECT_DIR$/db/index.php" />
+        <option value="$PROJECT_DIR$/db/layout/header.php" />
+        <option value="$PROJECT_DIR$/db/memberpage.php" />
+        <option value="$PROJECT_DIR$/db/archiv.php" />
+        <option value="$PROJECT_DIR$/db/library.php" />
+        <option value="$PROJECT_DIR$/db/photoarchiv.php" />
+        <option value="$PROJECT_DIR$/db/includes/configr.php" />
+        <option value="$PROJECT_DIR$/db/includes/config.php" />
       </list>
     </option>
   </component>
@@ -448,92 +177,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htdocs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -549,9 +192,12 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/db/content" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/db" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db/includes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/db/content" />
       <recent name="$PROJECT_DIR$/db/css" />
@@ -575,9 +221,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="f044f9ac-08b7-4d92-b4ba-024b20dd88ee" server_name="Neuthal">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -585,6 +228,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="f044f9ac-08b7-4d92-b4ba-024b20dd88ee" server_name="Neuthal">
       <method />
     </configuration>
     <list size="0" />
@@ -624,28 +270,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17369093" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20958512" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18669528" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23819743" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18597998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20958512" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15879828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18669528" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -671,11 +318,33 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/db/memberpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="714">
+          <caret line="4" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/memberpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/layout/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/db/config/my_settings.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="323">
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,11 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2618">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1434269620000" expanded="true" signature="-1:-1" placeholder="SELECT usern..members..." />
-            <marker date="1434269620000" expanded="true" signature="-1:-1" placeholder="SELECT email..members..." />
-            <marker date="1434269620000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,20 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/archiv.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="729">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/library.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/loginregister/db.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
@@ -801,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32553193" vertical-offset="0" max-vertical-offset="470">
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,7 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.023383768" vertical-offset="0" max-vertical-offset="727">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,15 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0952381" vertical-offset="0" max-vertical-offset="1326">
           <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/includes/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16368638" vertical-offset="0" max-vertical-offset="727">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -841,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11288181" vertical-offset="0" max-vertical-offset="753">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,9 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="753">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1424837030000" expanded="true" signature="-1:-1" placeholder="UPDATE membe..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1904762" vertical-offset="0" max-vertical-offset="3672">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,29 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="952">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1424837030000" expanded="true" signature="-1:-1" placeholder="SELECT passw..members..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/memberpage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18707015" vertical-offset="0" max-vertical-offset="727">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2254902" vertical-offset="1335" max-vertical-offset="2618">
-          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
-          <folding>
-            <marker date="1434269620000" expanded="true" signature="-1:-1" placeholder="SELECT usern..members..." />
-            <marker date="1434269620000" expanded="true" signature="-1:-1" placeholder="SELECT email..members..." />
-            <marker date="1434269620000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,14 +506,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11691885" vertical-offset="0" max-vertical-offset="727">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.400838" vertical-offset="0" max-vertical-offset="1768">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/layout/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.023383768" vertical-offset="0" max-vertical-offset="1054">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.20987654" vertical-offset="0" max-vertical-offset="729">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/photoarchiv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="493">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="493">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/archiv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/memberpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09327846" vertical-offset="0" max-vertical-offset="729">
+          <caret line="4" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25801012" vertical-offset="0" max-vertical-offset="593">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding />
         </state>
       </provider>

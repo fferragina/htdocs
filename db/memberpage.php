@@ -3,13 +3,17 @@ if(!$user->is_logged_in()){ header('Location: login.php'); }
 $title = 'Members Page';
 require('layout/header.php');
 ?>
-
+<body>
+<div class="ws">
+    <nav role="navigation" class="navbar navbar-default">
+        <div class="navbar-header">
+            <a href="memberpage.php" class="navbar-brand">Webmaschinen Sammlung</a>
+            <ul class="nav navbar-nav"> <li> <a href='logout.php'>Logout</a> </li> </ul>
+            <ul class="nav navbar-nav navbar-right"> <li> <a href='#'> <?php echo $_SESSION['username']; ?> </a></li> </ul>
+        </div>
+    </nav>
+</div>
 <div class="container">
-    <div class="hero-unit">
-        <h1>Webmaschinen Sammlung <?php echo $_SESSION['username']; ?></h1>
-        <p><a href='logout.php'>Logout</a></p>
-        <hr>
-    </div>
     <div class="row">
         <div class="span4">
             <h2>Photoarchiv</h2>
@@ -27,7 +31,6 @@ require('layout/header.php');
             <p><a class="btn btn-info" href="archiv.php">Suche &nbsp; <i class="icon-folder-open icon-white"></i></a></p>
         </div>
     </div>
-
     <?php
     require('layout/footer.php');
     ?>
